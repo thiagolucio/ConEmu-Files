@@ -11,8 +11,5 @@ git push -u origin master
 git remote add origin https://github.com/thiagolucio/ConEmu-Files.git
 git push -u origin master
 
-Clone a project:
-git clone git://github.com/thiagolucio/ConEmu-Files.git
-
-You can use others protocols to clone a repo...
+Clone project:
 git clone https://github.com/thiagolucio/ConEmu-Files.git
