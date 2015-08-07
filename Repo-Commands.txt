@@ -8,9 +8,11 @@ git commit -m "first commit"
 git remote add origin https://github.com/thiagolucio/ConEmu-Files.git
 git push -u origin master
 
-
-Push an existing repository from the command line
-
-
 git remote add origin https://github.com/thiagolucio/ConEmu-Files.git
 git push -u origin master
+
+Clone a project:
+git clone git://github.com/thiagolucio/ConEmu-Files.git
+
+You can use others protocols to clone a repo...
+git clone https://github.com/thiagolucio/ConEmu-Files.git
